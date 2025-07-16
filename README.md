@@ -1,2 +1,1 @@
-# Python-LeetCode-Solutions
-The folder is dedicated to add all my python practice solutions from LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-rosh_ini_166-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rosh_ini_166/)
